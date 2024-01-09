@@ -1,3 +1,9 @@
+/**
+ * @param row 
+ * @param col 
+ * @param memo Storing computed values from the call stack
+ * @returns No of ways you can reach from top to bottom in a (row x col) grid.
+ */
 function gridTravel(
   row: number,
   col: number,
